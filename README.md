@@ -35,15 +35,15 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 
 ---
 
-### 🌦️ 2. [Climate Trend Analysis 2010–2024 (BMKG Data)](link-ke-repo-atau-colab)
-**Goal:** Detect long-term temperature and humidity trends in Banjarbaru (2010–2024)  
+### 🌦️ 2. [Climate Trend Analysis 2010–2024 (BMKG Data)](Climate_Trend.pdf)
+**Goal:** Detect long-term Climate trends in Banjarbaru (2010–2024)  
 **Tools:** Python (pandas, matplotlib, seaborn)  
 **Highlights:**  
 - Cleaned and visualized 15 years of climate data  
 - Identified seasonal variation and correlation among climate variables  
 
 📸 *Example Output:*  
-![Temperature Trend](climate_trend.png)
+![Climate Trend](Abstrak_Jurnal.png)
 
 ---
 
