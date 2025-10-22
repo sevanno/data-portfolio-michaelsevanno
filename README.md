@@ -42,7 +42,7 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 - Cleaned and visualized 15 years of climate data  
 - Identified seasonal variation and correlation among climate variables  
 
-📸 *Abstrak Jurnal*  
+📸 *Abstrak*  
 ![Climate Trend](Abstrak_Jurnal.png)
 
 ---
@@ -50,4 +50,4 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 ## 🧑‍💻 Contact
 📧 **michaelsevanno05@gmail.com**  
 📍 Jakarta, Indonesia  
-🔗 **LinkedIn:** [linkedin.com/in/michaelsevanno](#)  
+🔗 **LinkedIn:** [linkedin.com/in/michael-sevanno-97514238a](#)  
