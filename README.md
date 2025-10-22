@@ -21,7 +21,7 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 
 ## 📂 Featured Projects
 
-### 🧭 1. [Retail Analytics Dashboard — Google Looker Studio](https://lookerstudio.google.com/your-dashboard-link)
+### 🛍️ 1. [Retail Analytics Dashboard — Google Looker Studio](https://lookerstudio.google.com/reporting/cf38e81b-31c6-4053-973a-b1e931a0bfb2)
 **Goal:** Analyze sales and customer data through interactive dashboards  
 **Tools:** Google Looker Studio, Google Sheets  
 **Highlights:**  
@@ -31,7 +31,7 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 - Product performance by category  
 
 📸 *Screenshots:*  
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Dashboard_Overview.png)
 
 ---
 
