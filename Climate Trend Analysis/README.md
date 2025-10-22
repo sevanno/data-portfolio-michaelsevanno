@@ -56,7 +56,7 @@ Data dibersihkan, diproses, dan divisualisasikan untuk mendeteksi tren perubahan
 ![Tren Bulanan](figures/trend_bulanan.png)
 
 ### 🔹 Hubungan Linear: Penyinaran Matahari (SS) vs Suhu Rata-rata (TAVG)
-![Regresi Linear](figures/trend_humidity.png)
+![Regresi Linear](figures/Regresi_Linear.png)
 
 ---
 
