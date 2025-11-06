@@ -1,13 +1,13 @@
 # 📊 Data Portfolio — Michael Al Fanathan Sevanno
 
 Welcome to my personal data portfolio!  
-This repository showcases my academic and personal projects related to **data analysis, visualization, and decision support systems**.
+This repository showcases my academic and personal projects.
 
 ---
 
 ## 🧠 About Me
 Information Systems student at **Universitas Tarumanagara** (Jakarta, Indonesia)  
-Interested in **data analytics, visualization, and AI-driven decision systems**.  
+Interested in **data analytics, Full Stack Developer, and Quality Assurance**.  
 Currently preparing for an **MBKM internship program (2025)** focusing on data analysis.
 
 **Tools & Skills:**
