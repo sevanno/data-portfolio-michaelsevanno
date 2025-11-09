@@ -16,6 +16,7 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 - Google Looker Studio & Power BI
 - Excel & Google Sheets (dashboard, pivot, formula)
 - ETL & Data Warehouse (conceptual)
+- HTML, PHP, CSS
 
 ---
 
@@ -31,11 +32,23 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 - Product performance by category  
 
 📸 *Screenshots:*  
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview](Images/Dashboard_Overview.png)
 
 ---
 
-### 🌦️ 2. [Climate Trend Analysis 2010–2024 (BMKG Data)](Climate_Trend.pdf)
+### 🌦️ 2. [Climate Trend Analysis 2010–2024 (BMKG Data)](Documents/Climate_Trend.pdf)
+**Goal:** Detect long-term Climate trends in Banjarbaru (2010–2024)  
+**Tools:** Python (pandas, matplotlib, seaborn)  
+**Highlights:**  
+- Cleaned and visualized 15 years of climate data  
+- Identified seasonal variation and correlation among climate variables  
+
+📸 *Abstrak*  
+![Climate Trend](Images/Abstrak_Jurnal.png)
+
+---
+
+###  3. [Destinasi Wisata Front end & Back End]
 **Goal:** Detect long-term Climate trends in Banjarbaru (2010–2024)  
 **Tools:** Python (pandas, matplotlib, seaborn)  
 **Highlights:**  
