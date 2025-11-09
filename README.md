@@ -50,4 +50,4 @@ Currently preparing for an **MBKM internship program (2025)** focusing on data a
 ## 🧑‍💻 Contact
 📧 **michaelsevanno05@gmail.com**  
 📍 Jakarta, Indonesia  
-🔗 **LinkedIn:** [linkedin.com/in/michael-sevanno-97514238a](#)  
+🔗 **LinkedIn:** [linkedin.com/in/michael-sevanno](#)  
