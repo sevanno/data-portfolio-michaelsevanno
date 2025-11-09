@@ -35,7 +35,7 @@ if (!defined('aktif')) {
                             <img src="assets/img/hero/play.svg" width="15" alt="play"/>
                         </span>
                     </a>
-                    <span class="fw-medium">Japanese scenery</span>
+                    <span class="fw-medium">Indonesia scenery</span>
 
                     <!-- Modal for the video -->
                     <div class="modal fade" id="popupVideo" tabindex="-1" aria-labelledby="popupVideo" aria-hidden="true">
